@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647656266829",
+    "project_id": "woc-myvault",
+    "storage_bucket": "woc-myvault.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647656266829:android:c1622a3d54586e71355004",
+        "android_client_info": {
+          "package_name": "com.winterofcode.myvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647656266829-2hk9pq2d0724ipgdguktbvhlh2cl7fub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8PLIJh1PjIJ98NuDPQkL639Xh0FEqP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647656266829-2hk9pq2d0724ipgdguktbvhlh2cl7fub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
